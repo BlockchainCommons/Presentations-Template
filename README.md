@@ -1,11 +1,10 @@
-# Web Presentation
+# Web Presentations
 
-Project is designed to quickly build presentation as a web page.
+This GitHub emplate is designed to quickly build a presentation as a web page.
 
-To create your presentation just fork this repository.
+To create your presentation just click on "template" above, and edit the files in `_posts`.
 
-URL: https://kinlane.github.io/beforeeighteen/#/
-
+Based on [@kinlane's BeforeEighteen](https://kinlane.github.io/beforeeighteen/#/)
 
 **NOTES**
 
@@ -18,6 +17,3 @@ URL: https://kinlane.github.io/beforeeighteen/#/
 - Presentation pages will be displayed in chronological order
 
 - Githib pages will automatically generate/update website with presentation for you (please wait up to 1 minute)
-
-
-Enjoy
