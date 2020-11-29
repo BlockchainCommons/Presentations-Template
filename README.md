@@ -4,7 +4,7 @@ This GitHub template is designed to quickly build a presentation as a web page, 
 
 To create your presentation just click on "template" above to clone it to your own repo, and edit the files in `_posts`.
 
-Based on [@kinlane's][https://github.com/kinlane/beforeeighteen) [BeforeEighteen](https://kinlane.github.io/beforeeighteen/#/)
+Based on [@kinlane's](https://github.com/kinlane/beforeeighteen) [BeforeEighteen](https://kinlane.github.io/beforeeighteen/#/)
 
 **NOTES**
 
