@@ -1,10 +1,10 @@
 # Web Presentations
 
-This GitHub emplate is designed to quickly build a presentation as a web page.
+This GitHub template is designed to quickly build a presentation as a web page, themed for Blockchain Commons.
 
-To create your presentation just click on "template" above, and edit the files in `_posts`.
+To create your presentation just click on "template" above to clone it to your own repo, and edit the files in `_posts`.
 
-Based on [@kinlane's BeforeEighteen](https://kinlane.github.io/beforeeighteen/#/)
+Based on [@kinlane's][https://github.com/kinlane/beforeeighteen) [BeforeEighteen](https://kinlane.github.io/beforeeighteen/#/)
 
 **NOTES**
 
